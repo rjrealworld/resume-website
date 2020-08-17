@@ -1,1 +1,1 @@
-browser-sync start --server --files "*.html, *.css"
+Resume website using HTML, CSS, Bootstrap and a bit of JS
