@@ -1,4 +1,4 @@
-Resume website using HTML, CSS, Bootstrap and a bit of JS
+Responsive resume website using HTML, CSS, Bootstrap and a bit of JS
 
 * Preview - 
 
