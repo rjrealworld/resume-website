@@ -8,4 +8,4 @@ Responsive resume website using HTML, CSS, Bootstrap and a bit of JS
 
 * Website URL - 
 
-https://lnd.talentsprint.com/~riya_jain/
+http://portfolios.talentsprint.com/~riya_jain
