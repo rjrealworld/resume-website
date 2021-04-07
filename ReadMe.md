@@ -8,4 +8,4 @@ Responsive resume website using HTML, CSS, Bootstrap and a bit of JS
 
 * Website URL - 
 
-http://portfolios.talentsprint.com/~riya_jain
+https://rjrealworld.github.io/resume-website/
